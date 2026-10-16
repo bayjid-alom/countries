@@ -1,3 +1,9 @@
+### 📌 API Response Structure
+
+```text
+https://openapi.programming-hero.com/api/all
+```
+
 ```json
 {
   "name": {

@@ -8,11 +8,12 @@
     border-radius: 10px;
     background: #151d2a;
     color: #e2e8f0;
-    transition: border-color 0.2s ease;
+    transition: border-color 0.2s ease, transform 0.3s ease;
 }
 
 .country-card:hover {
     border-color: #3b4a5e;
+    transform: translateY(-4px);
 }
 
 .country-card .image-div {
