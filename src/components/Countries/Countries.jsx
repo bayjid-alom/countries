@@ -8,7 +8,6 @@ const Countries = ({ countriesPromise }) => {
 
 
 
-
     return (
 
         <div>

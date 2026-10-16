@@ -24,7 +24,19 @@
 
 
 .footer button {
-    margin-top: 15px; 
+    margin-top: 15px;
     width: 100%;
     text-align: center !important;
+}
+
+
+
+
+.visited-country {
+    background-color: rgba(172, 255, 47, 0.144);
+    border: 1px solid aqua;
+}
+
+.not-visited-country{
+    border: 2px solid rgb(223, 49, 49);
 }
