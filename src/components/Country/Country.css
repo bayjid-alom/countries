@@ -1,0 +1,30 @@
+.country-card {
+    border-radius: 8px;
+    border: 1px solid aqua;
+    padding: 10px;
+}
+
+.country-card .image-div img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+
+
+
+.country-card .population-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+.footer button {
+    margin-top: 15px; 
+    width: 100%;
+    text-align: center !important;
+}
